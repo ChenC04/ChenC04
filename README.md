@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cindy  
 
 ## About Me  
-I’m a Data Science & Economics student at Boston University (Class of 2026) who is passionate about applying machine learning and data analysis to challenges in **healthcare, sustainability, and policy**.  
+I’m a Data Science & Economics student at Boston University who is passionate about applying machine learning and data analysis to challenges in **healthcare, sustainability, and policy**.  
 
 As a first-generation student, I thrive on curiosity, adaptability, and problem-solving. Whether I’m building a machine learning pipeline, running econometric analysis, or organizing a WiDS datathon, I enjoy combining technical skills with purpose-driven work that creates impact.  
 
