@@ -12,7 +12,9 @@ I’m especially fascinated by the role of AI in healthcare and data equity in c
 ## 🛠️ Skills  
 
 **Languages & Tools**: Python, R, Rust, SQL, Stata, LaTeX, Jupyter Notebooks, Git, Streamlit 
+
 **Libraries & Frameworks**: PyTorch, TensorFlow/Keras, scikit-learn, Pandas, NumPy
+
 **Core Areas**: Machine Learning, Reinforcement Learning, NLP, Econometrics, Geospatial Analysis  
  
 
